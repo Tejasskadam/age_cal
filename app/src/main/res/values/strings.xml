@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AgeCal</string>
+    <string name="enter_your_birthday_year">Enter Your Birthday Year</string>
+    <string name="submit">Submit</string>
+</resources>
